@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Frontend Developer and UX/UI Design (HTML5 CSS3 Javascript Figma AdobeXD Responsive Design)**
 
-- 📫 How to reach me **p.armengol.it@gmail.com**
+- 📫 How to reach me **p.armengol6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
