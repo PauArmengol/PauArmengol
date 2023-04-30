@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paula Armengol</h1>
 <h3 align="center">A Frontend Developer and UX&UI Design from Argentina</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pauarmengol" alt="pauarmengol" /></a> </p>
 
 - 🔭 I currently work **freelance**
 
