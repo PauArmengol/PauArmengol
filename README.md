@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paula Armengol</h1>
-<h3 align="center">A Frontend Developer and UX&UI Design from Argentina</h3>
+<h3 align="center">Frontend Developer from Argentina</h3>
 
 
 - 🔭 I currently work **freelance**
